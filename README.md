@@ -2,6 +2,8 @@
 
 15 native Swift/SwiftUI demos aligned with [Revolut iOS engineering](https://medium.com/revolut/tagged/ios) (Clean, MVVM-C, modularity, offline-first, security).
 
+**Author:** [deepak4u2006](https://github.com/deepak4u2006) · **Blog:** [learningiphonesdk.blogspot.com](https://learningiphonesdk.blogspot.com)
+
 ## Pin on GitHub (recommended)
 
 1. **PulseLedger** — SwiftData dashboard, MVVM, `actor` repository  
